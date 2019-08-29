@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Clearmaze Features</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.6/typed.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/countup@1.8.2/dist/countUp.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0076/3556.js" async="async"></script>
+
+</head>
+
+<body>
+
+
+  <script>
+    $(document).ready(function() {
+      $(".CourseName").hide(); //hides all the course names
+    });
+  </script>
+
+  <div class="jumbotron">
+    <h1 class="display-3"></h1>
+    <h3 id="jumboParagraph">increase the number of prospective students by building interactive transfer guides</h3>
+
+  </div>
+
+  <script type="text/javascript">
+    var typed = new Typed('.display-3', {
+      strings: ["Transferring classes made easy.", "Transferring classes made fast.", "Transferring classes made simple."],
+      typeSpeed: 45,
+      showCursor: false
+    });
+  </script>
+
+  <div class="container-fluid color2">
+    <div class="row">
+      <div class="col-lg-8">
+        <h1>There's a real "transfer maze" out there ...</h1>
+        <br>
+        <h5>information is scattered throughout multiple PDFs, students are confused and counselors are burdened with students lining up to answer simple questions.</h5>
+        <br>
+        <div class="row">
+          <div class="col-lg-3">
+            <h1 id="percent"></h1>
+            <p>of credits were lost on average from students who transferred during 2004-2009<sup><a href="https://www.gao.gov/products/GAO-17-574"> 1 </sup></a></p>
+          </div>
+
+          <div class="col-lg-3">
+            <h1 id="ratio"></h1>
+            <p>is the average counselor to student ratio in secondary education<sup><a href="https://www.nacacnet.org/news--publications/publications/state-of-college-admission/soca-chapter1222/"> 2</sup></a></p>
+          </div>
+
+          <div class="col-lg-3">
+            <h1 id="dollars"></h1>
+            <p>is the amount of time it takes for 42% of students that want to transfer to complete a bachelor's degree starting at a community college<sup><a href="https://ccrc.tc.columbia.edu/publications/tracking-transfer-institutional-state-effectiveness.html"> 3 </sup></a></p>
+          </div>
+
+          <script>
+            var percentOption = {  
+              useEasing: true,
+                useGrouping: true,
+                separator: ',',
+                decimal: '.',
+              suffix: '%',
+            };
+
+            var ratioOption = {  
+              useEasing: true,
+                useGrouping: true,
+                separator: ',',
+                decimal: '.',
+              suffix: ':1',
+            };
+
+            var dollarsOption = {  
+              useEasing: true,
+                useGrouping: true,
+                separator: ',',
+                decimal: '.',
+              suffix: ' years',
+            };
+
+            var percentValue = 43;
+            var percent = new CountUp("percent", 0, percentValue, 0, 2.5, percentOption);
+            percent.start();
+
+            var ratioValue = 491;
+            var ratio = new CountUp("ratio", 0, ratioValue, 0, 2.5, ratioOption);
+            ratio.start();
+
+            var dollarsValue = 6;
+            var dollars = new CountUp("dollars", 0, dollarsValue, 0, 2.5, dollarsOption);
+            dollars.start();
+          </script>
+        </div>
+
+      </div>
+      <div class="col-lg-3">
+        <br>
+        <br>
+        <img class = "img-fluid" src="../assets/undraw_destanation1_h3vq.png" alt="">
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid color1">
+    <div class="row text-lg-center">
+      <h1>... and we're here to clear it with 3 clicks.</h1>
+    </div>
+    <div class="row">
+      <br>
+      <br>
+      <div class="col-lg-4">
+        <img class = "img-fluid" src="../assets/undraw_file_searching_duff.png" alt="">
+      </div>
+      <div class="col-lg-4">
+        <br>
+        <br>
+        <ol class="containter" id="steps">
+          <h4>
+              <li>Choose your community college</li>
+              <li>Choose your university</li>
+              <li>Choose your major</li>
+            </h4>
+        </ol>
+        <br>
+        <br>
+        <h5>using our algorithms designed to harness essential transfer data, we provide students and counselors just the information they need in a matter of seconds.</h5>
+      </div>
+      <div class="col-lg-4">
+        <br>
+        <table class="table" id = "transferGuide">
+          <thead>
+            <tr>
+              <th scope="col">College of Dupage</th>
+              <th scope="col">University of Illinois at Chicago</th>
+              <th scope="col">Credit Hours</th>
+            </tr>
+          </thead>
+
+          <tbody class="hoverOnCourses">
+            <tr class="CourseNumber">
+              <td>MATH 1221</td>
+              <td>MATH 180</td>
+              <td>4</td>
+            </tr>
+
+            <tr class="CourseName">
+              <td>Calculus I</td>
+              <td>Calculus I</td>
+              <td>4</td>
+            </tr>
+          </tbody>
+
+          <tbody class="hoverOnCourses">
+            <tr class="CourseNumber">
+              <td>MATH 1222</td>
+              <td>MATH 181</td>
+              <td>4</td>
+            </tr>
+
+            <tr class="CourseName">
+              <td>Calculus II</td>
+              <td>Calculus II</td>
+              <td>4</td>
+            </tr>
+          </tbody>
+
+          <tbody class="hoverOnCourses">
+            <tr class="CourseNumber">
+              <td>MATH 2101</td>
+              <td>MATH 210</td>
+              <td>3</td>
+            </tr>
+
+
+            <tr class="CourseName">
+              <td>Calculus III</td>
+              <td>Calculus III</td>
+              <td>4</td>
+            </tr>
+          </tbody>
+
+          <script>
+          $(".hoverOnCourses").mouseover(
+            function(){
+              $(this).children(".CourseNumber").hide();
+              $(this).children(".CourseName").show();
+              $(this).children(".CourseName").css("background-color","gray");   //gives hover effect by changing the background color
+              $(this).children(".CourseName").children().css("color", "white");
+            }
+          );
+
+          $(".hoverOnCourses").mouseout(
+            function(){
+              $(this).children(".CourseName").hide();
+              $(this).children(".CourseNumber").show();
+            }
+          );
+          </script>
+        </table>
+      </div>
+
+
+
+    </div>
+  </div>
+
+  <div class = "container-fluid color2">
+    <h1 class="text-lg-center">but why should I make interactive transfer guides?</h1>
+  </div>
+
+  <div class="container-fluid color1" id="analytics">
+    <h1>Analytics Dashboard to help you make well-informed decisions</h1>
+    <br>
+    <div class="row">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+          <h5>
+            With prospective community college students using our platform to plan their college transition, our tool harnesses that generated data to provide analytics and help your administration make well-informed decisions.
+          </h5>
+          <br>
+          <a href="https://mailchi.mp/9272ee8be85f/lets-talk" id="letsTalkButton">LET'S TALK</a>
+          <br>
+          <br>
+          </div>
+          <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+            <img class = "img-fluid" src="../assets/undraw_data_xmfy.png" alt="">
+          </div>
+          <div class="col-lg-4">
+
+          </div>
+        </div>
+
+
+    </div>
+  </div>
+
+
+
+  <div class="container-fluid color1">
+    <h1>Get Detailed Information on Students</h1>
+    <br>
+    <div class="row">
+      <div class="col-lg-6">
+          <h5>Get down to the nitty-gritty. View information on the student and see, in real-time, which schools they express interest in by using our tranfer guides.</h5>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="row">
+      <div class="col-lg-4 align-middle">
+          <img class = "img-fluid" src="../assets/undraw_choose_80qg.png" alt="" width="250px">
+      </div>
+      <div class="col-lg-8">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Age</th>
+              <th>High School</th>
+              <th>High School Graduation Year</th>
+              <th>GPA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Jessica</td>
+              <td>Rovelo</td>
+              <td>19</td>
+              <td>Oswego East High School</td>
+              <td>2018</td>
+              <td>3.49</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <br>
+        <h3>Schools and Majors Researched</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Community College</th>
+              <th>University</th>
+              <th>Major</th>
+              <th>Date Checked</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>College of Dupage</td>
+              <td>University of Illinois at Chicago</td>
+              <td>Accounting</td>
+              <td>03/08/2018</td>
+            </tr>
+            <tr>
+              <td>Waubonsee Community College</td>
+              <td>Northern Illinois University</td>
+              <td>Accounting</td>
+              <td>12/11/2017</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+
+  </div>
+
+  <div class="container-fluid color2">
+
+    <div class="row">
+      <div class="col-lg-7">
+        <table class = "table">
+          <thead>
+            <tr>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Community College</th>
+              <th>Looked at your school?</th>
+              <th>Conversion Rating</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Jessica</td>
+              <td>Rovelo</td>
+              <td>College of Dupage</td>
+              <td>Yes</td>
+              <td>★★★★★</td>
+              <td><button class = 'btn btn-primary'>View More</button> </td>
+            </tr>
+            <tr>
+              <td>Sam</td>
+              <td>Smith</td>
+              <td>Moraine Valley Community College</td>
+              <td>Yes</td>
+              <td>★★★★</td>
+              <td><button class = 'btn btn-primary'>View More</button> </td>
+            </tr>
+            <tr>
+              <td>Alexandria</td>
+              <td>Kennedy</td>
+              <td>College of Dupage</td>
+              <td>Yes</td>
+              <td>★★★</td>
+              <td><button class = 'btn btn-primary'>View More</button> </td>
+            </tr>
+            <tr>
+              <td>Jessica</td>
+              <td>Smith</td>
+              <td>College of Dupage</td>
+              <td>Yes</td>
+              <td>★★</td>
+              <td><button class = 'btn btn-primary'>View More</button> </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-lg-5">
+        <h1>Reach out to Potential Students</h1>
+        <br>
+        <h5>Get an exact list of students using the Clearmaze Platform and reach out to them to recruit them into your pipeline.</h5>
+        <br>
+        <a href="https://mailchi.mp/9272ee8be85f/lets-talk" id="letsTalkButton">LET'S TALK</a>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br>
+  </div>
+
+  <div class="container-fluid">
+    <h1>Unparalleled Tech Infrastructure</h1>
+    <div class="row">
+      <div class="col-lg-1"></div>
+          <div class="card col-lg-3">
+            <img class = "img-fluid card-img-top" src="../assets/undraw_fast_loading_0lbh.png" alt="">
+            <br>
+            <div class="card-block">
+              <h4 class="card-title">Crazy fast!</h4>
+              <p class="card-text">Our platform is hosted on the cloud ― so guaranteed uptime and speed is part of the package.</p>
+            </div>
+          </div>
+          <div class="card col-lg-3">
+            <img class = "img-fluid card-img-top" src="../assets/aws.png" alt="">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="card-block">
+              <h4 class="card-title">Robust back end</h4>
+              <p class="card-text">We only use the best to make sure you get the best. We proudly use Amazon Web Services to power our features and ensure a reliable backbone for our entire ecosystem.</p>
+            </div>
+          </div>
+          <div class="card col-lg-3">
+            <img class = "img-fluid card-img-top" src="../assets/undraw_JavaScript_Frameworks_x21l.png" alt="">
+            <br>
+            <div class="card-block">
+              <h4 class="card-title">The latest and greatest</h4>
+              <p class="card-text">Out with old ... in with the new. Latest web technologies and frameworks ensure your institution is being provided the best technology that your community deserves.</p>
+            </div>
+      </div>
+      <div class="col-lg-1"></div>
+    </div>
+  </div>
+
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="card-deck-wrapper">
+      <div class="card-deck">
+        <div class="card">
+          <img class = "img-fluid card-img-top" src="../assets/undraw_filter_4kje.png" alt="">
+          <br>
+          <div class="card-block">
+            <h4 class="card-title">Feed more students into your pipeline</h4>
+            <p class="card-text">The more students in your funnel, the more can trickle down and eventually become your students.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img class = "img-fluid card-img-top" src="../assets/undraw_organizing_projects1_47ja.png" alt="">
+          <br>
+          <br>
+          <div class="card-block">
+            <h4 class="card-title">Increase efficiencies</h4>
+            <p class="card-text">You and your staff spend countless hours reflecting constantly changing articulation changes throughout the institution's website and PDFs. Let our dynamic transfer guides handle that heavy-lifting for you and make more time for important tasks.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img class = "img-fluid card-img-top" src="../assets/undraw_meeting_115p.png" alt="">
+          <br>
+          <div class="card-block">
+            <h4 class="card-title">Engage in more productive meetings</h4>
+            <p class="card-text">Often times, counselor appointments are capped at 15 minutes. That's not enough time to plan a college career. Make sure your students come prepared to ask smart questions and make more room for other important topics such as financial aid and career outlook.</p>
+          </div>
+        </div>
+        <div class="card">
+          <img class = "img-fluid card-img-top" src="../assets/undraw_grades_j6jn.png" alt="">
+          <br>
+          <div class="card-block">
+            <h4 class="card-title">Recruit students organically</h4>
+            <p class="card-text">Students want an easy way to research how their courses will transfer. Why not give them an amazing tool they like and harness that data to bring them into your recruitment funnel? Not only are you providing students a clear path on how to transfer, but you're making use of that data ... <i>organically.</i></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  <div id="letsTalk" class="container-fluid">
+    <div class="row">
+      <div class="col-lg-9">
+        <h2 style="margin-bottom:35px"> sound interesting? Let's work together to build cool transfer guides and make data-driven decisions.</h2>
+        <a href="https://mailchi.mp/9272ee8be85f/lets-talk" id="letsTalkButton">LET'S TALK</a>
+      </div>
+      <div class="col-lg-3">
+        <img class = "img-fluid" src="../assets/undraw_To_the_stars_qhyy.png" alt="">
+      </div>
+    </div>
+  </div>
+
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+</body>
+
+<footer>
+  <div class="row container" id="social">
+    <div class="col-md-3 col-sm-3 col-xs-3" id="facebook">
+      <a href="http://www.facebook.com/clearmazetech" target="_blank">
+              <img src="../assets/facebook.png" alt="Facebook Link" style="width:35px">
+            </a>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-3" id="twitter">
+      <a href="http://www.twitter.com/clearmazetech" target="_blank">
+              <img src="../assets/twitter.png" alt="Twitter Link" style="width:35px">
+            </a>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-3" id="instagram">
+      <a href="http://www.instagram.com/clearmaze" target="_blank">
+                <img src="../assets/instagram.png" alt="Instagram Link" style="width:35px">
+            </a>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-3" id="tumblr">
+      <a href="https://medium.com/@clearmaze" target="_blank">
+                <img src="../assets/medium.png" alt="Tumblr Link" style="width:35px">
+            </a>
+    </div>
+  </div>
+
+  <p> built with &ltsweat, grit, &amp hustle&gt from Chicago, IL </p>
+  <p> Copyright 2018 &copy Clearmaze Technologies Inc. |
+    <a href="../terms/terms.html" style="color:#cccccc;text-decoration:none;">Terms and Conditions</a>
+  </p>
+</footer>
+<script>
+
+
+  var ctx2 = document.getElementById('myChart2').getContext('2d');
+  var chart = new Chart(ctx2, {
+    // The type of chart we want to create
+    type: 'horizontalBar',
+
+    // The data for our dataset
+    data: {
+      labels: ["Glendbard West High School", "Waubonsee Valley High School", "Neuqua Valley High School", "Hinsdale Central High School", "Niles North High School", "Northside College Prep", "Reavis High School"],
+      datasets: [{
+        label: "My First dataset",
+        backgroundColor: '#064789',
+        borderColor: '#78D5D7',
+        data: [500, 345, 300, 398, 340, 589, 489],
+      }]
+    },
+
+    // Configuration options go here
+    options: {
+      scales: {
+        yAxes: [{
+
+        }],
+        xAxes: [{
+          ticks: {
+            beginAtZero: true
+          }
+        }]
+      },
+      legend: {
+        display: false
+      },
+      title: {
+        display: true,
+        text: 'Top High Schools Using Clearmaze',
+        fontSize: 20
+      }
+
+    }
+  });
+
+  var ctx3 = document.getElementById('myChart3').getContext('2d');
+  var chart = new Chart(ctx3, {
+    // The type of chart we want to create
+    type: 'pie',
+
+    // The data for our dataset
+    data: {
+      labels: ["Engineering", "Nursing", "Business Administration", "Biology", "Accounting"],
+      datasets: [{
+        backgroundColor: ['#064789', '#2B71C3', '#F7F9F9', '#BED8D4', '#78D5D7'],
+        data: [10, 50, 7, 20, 30],
+      }]
+    },
+
+    // Configuration options go here
+    options: {
+      legend: {
+        display: false
+      },
+      title: {
+        display: true,
+        text: 'Popular Majors',
+        fontSize: 20
+      }
+    }
+  });
+</script>
+</html>

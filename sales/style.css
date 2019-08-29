@@ -1,0 +1,93 @@
+.jumbotron{
+  background-color: #0747AF;
+  color: #F4F7FC;
+  text-align: center;
+  /* height: 600px; */
+  margin-bottom: 0px;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+
+.container-fluid{
+  /* height: 400px; */
+  padding: 100px;
+}
+
+#transferGuide {
+  text-align: center;
+}
+
+/* thead {
+  text-align: center;
+} */
+
+.color1 {
+  background-color: #F5F9FC;
+  color: #031C34;
+}
+
+.color2 {
+  background-color: #F5F9FC;
+  color: #03213F;
+}
+
+/* #analytics{
+  height: 600px;
+} */
+
+#why {
+  text-align: center;
+}
+
+#letsTalk {
+  align-content: center;
+}
+
+#letsTalkButton {
+  background-color: #03213F;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 12px;
+  border-color: black;
+}
+
+#letsTalkButton:hover {
+  background-color: white;
+  text-decoration: none;
+  color: black;
+}
+
+#steps {
+    list-style-position: inside;
+    padding-left:0;
+    padding-left: 0px;
+}
+
+footer {
+    width: 100%;
+    padding: 20px;
+    padding-bottom: 2px;
+    font-family: "courier";
+    font-size: 10px;
+    padding-top: 20px;
+    background-color: #1A252B;
+    color: #cccccc;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    text-align: center;
+}
+
+#social {
+    width: 200px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.card  {
+  padding: 25px;
+  margin: 15px;
+}

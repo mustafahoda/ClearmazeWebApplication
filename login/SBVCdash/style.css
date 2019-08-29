@@ -1,0 +1,16 @@
+.card {
+  padding: 20px;
+  margin-bottom: 15px;
+  height: auto;
+}
+
+.row  {
+  margin: 20px;
+}
+
+/*canvas  {
+  border-style: solid;
+  border-width: thin;
+  border-radius: 2px;
+  border-color: gray;
+}*/

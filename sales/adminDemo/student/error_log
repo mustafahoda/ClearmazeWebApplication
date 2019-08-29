@@ -1,0 +1,319 @@
+[11-Feb-2018 05:57:10 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 05:57:10 UTC] PHP Notice:  Undefined index: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 05:58:04 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:46:09 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:47:33 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:47:33 UTC] PHP Notice:  Undefined index:  in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:47:59 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:47:59 UTC] PHP Notice:  Undefined index:  in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:50:04 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:50:04 UTC] PHP Notice:  Undefined index:  in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:52:59 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:52:59 UTC] PHP Notice:  Undefined index:  in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:54:04 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:56:26 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 07:57:09 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 08:09:48 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 08:10:41 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 08:12:15 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 08:14:33 UTC] PHP Notice:  Undefined variable: student in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 08:23:51 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[11-Feb-2018 08:29:10 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[12-Feb-2018 01:33:06 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[12-Feb-2018 04:23:24 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:08:01 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:08:10 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:21:57 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:22:25 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:23:01 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:24:10 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:31:14 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:31:43 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:40:18 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:40:21 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:40:47 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[13-Feb-2018 01:41:48 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[14-Feb-2018 05:18:36 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[15-Feb-2018 03:38:58 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[15-Feb-2018 03:48:19 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[15-Feb-2018 03:55:15 UTC] PHP Notice:  Undefined index: id in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 16
+[17-Feb-2018 00:45:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 35
+[17-Feb-2018 00:47:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 35
+[17-Feb-2018 00:50:43 UTC] PHP Warning:  require(..db_connect.php): failed to open stream: No such file or directory in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 3
+[17-Feb-2018 00:50:43 UTC] PHP Warning:  require(..db_connect.php): failed to open stream: No such file or directory in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 3
+[17-Feb-2018 00:50:43 UTC] PHP Fatal error:  require(): Failed opening required '..db_connect.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 3
+[17-Feb-2018 00:50:45 UTC] PHP Warning:  require(..db_connect.php): failed to open stream: No such file or directory in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 3
+[17-Feb-2018 00:50:45 UTC] PHP Warning:  require(..db_connect.php): failed to open stream: No such file or directory in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 3
+[17-Feb-2018 00:50:45 UTC] PHP Fatal error:  require(): Failed opening required '..db_connect.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 3
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 00:58:22 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 48
+[17-Feb-2018 03:20:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:20:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:21:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:21:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:21:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:23:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:24:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:107
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(107): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[17-Feb-2018 03:24:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:108
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(108): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 108
+[17-Feb-2018 03:30:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1' in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php:108
+Stack trace:
+#0 /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php(108): PDO->query('SELECT combo1_c...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 108
+[17-Feb-2018 04:04:21 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 97
+[17-Feb-2018 04:12:56 UTC] PHP Notice:  Array to string conversion in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 84
+[17-Feb-2018 04:14:56 UTC] PHP Notice:  Array to string conversion in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 84
+[17-Feb-2018 05:22:23 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 05:25:16 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 05:26:42 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 72
+[17-Feb-2018 05:30:41 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 72
+[17-Feb-2018 05:31:31 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 72
+[17-Feb-2018 05:31:51 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 72
+[17-Feb-2018 05:32:37 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 18:56:20 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 18:57:12 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 19:17:58 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 19:24:40 UTC] PHP Notice:  Undefined variable: lastVisit in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 130
+[17-Feb-2018 19:32:00 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 129
+[17-Feb-2018 21:31:11 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 21:31:11 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 129
+[17-Feb-2018 21:32:26 UTC] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 71
+[17-Feb-2018 21:35:28 UTC] PHP Notice:  Array to string conversion in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 86
+[17-Feb-2018 21:37:23 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 21:37:23 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 21:37:23 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 21:37:23 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 131
+[17-Feb-2018 22:11:57 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:11:57 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:11:57 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:11:57 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 131
+[17-Feb-2018 22:15:26 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:15:26 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:15:26 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:15:26 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 131
+[17-Feb-2018 22:19:41 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:19:41 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:19:41 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:19:41 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 130
+[17-Feb-2018 22:20:26 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:20:26 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:20:26 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[17-Feb-2018 22:20:26 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 130
+[18-Feb-2018 00:15:22 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 00:15:23 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 00:15:23 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 00:15:23 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 130
+[18-Feb-2018 03:49:48 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:49:48 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:49:48 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:51:13 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:51:13 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:51:13 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:54:11 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:54:11 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:54:11 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:57:45 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:57:45 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:57:45 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:57:45 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 126
+[18-Feb-2018 03:57:57 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:57:57 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 03:57:57 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 06:38:38 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 06:38:38 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 06:38:38 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 06:40:14 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 06:40:14 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[18-Feb-2018 06:40:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 02:27:38 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 02:27:38 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 02:27:38 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: firstName in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 28
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: lastName in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 28
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: firstName in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 29
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: email in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 107
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: email in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 120
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 126
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: email in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 144
+[19-Feb-2018 02:27:40 UTC] PHP Notice:  Undefined variable: email in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 176
+[19-Feb-2018 02:27:44 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 02:27:44 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 02:27:44 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 04:17:37 UTC] PHP Notice:  Undefined offset: 2 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 04:17:37 UTC] PHP Notice:  Undefined offset: 1 in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[19-Feb-2018 04:17:37 UTC] PHP Notice:  A non well formed numeric value encountered in /home/clearmaze/public_html/EdmondsCC/version1.2/TrinityAdmin/student/studentActivity.php on line 73
+[08-Mar-2018 01:35:35 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 01:35:35 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 01:35:43 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 01:35:43 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 04:52:27 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 04:52:27 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 05:06:34 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 05:06:34 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 05:06:45 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 05:06:45 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 05:06:54 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 05:06:54 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 06:20:05 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 126
+[08-Mar-2018 06:20:05 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 130
+[08-Mar-2018 06:30:57 UTC] PHP Notice:  Undefined variable: id in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:30:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php:13
+Stack trace:
+#0 /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php(13): PDO->query('SELECT first_na...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:31:10 UTC] PHP Notice:  Undefined variable: id in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:31:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php:13
+Stack trace:
+#0 /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php(13): PDO->query('SELECT first_na...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:31:16 UTC] PHP Notice:  Undefined variable: id in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:31:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php:13
+Stack trace:
+#0 /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php(13): PDO->query('SELECT first_na...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:31:44 UTC] PHP Notice:  Undefined variable: id in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:31:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php:13
+Stack trace:
+#0 /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php(13): PDO->query('SELECT first_na...')
+#1 {main}
+  thrown in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 13
+[08-Mar-2018 06:33:32 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[08-Mar-2018 06:33:32 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[08-Mar-2018 21:55:17 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[08-Mar-2018 21:55:17 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 16:38:30 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 16:38:30 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 16:38:54 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 16:38:54 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 16:39:45 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 16:39:45 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 17:12:20 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 17:12:20 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 17:12:26 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 17:12:26 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 22:25:42 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 22:25:42 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 22:25:48 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 22:25:48 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 22:26:19 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 22:26:19 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[10-Mar-2018 22:36:18 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[10-Mar-2018 22:36:18 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[11-Mar-2018 01:38:57 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[11-Mar-2018 01:38:57 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[11-Mar-2018 01:39:04 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[11-Mar-2018 01:39:04 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[11-Mar-2018 21:48:05 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[11-Mar-2018 21:48:05 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 00:21:31 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 00:21:31 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 00:28:07 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 00:28:07 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:05:54 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:05:54 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:14:11 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:14:11 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:16:44 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:16:44 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:17:42 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:17:42 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:17:47 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:17:47 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:23:52 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:23:52 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[12-Mar-2018 01:38:51 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[12-Mar-2018 01:38:51 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[22-Mar-2018 15:18:52 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[22-Mar-2018 15:18:52 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133
+[11-Apr-2018 20:46:51 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 129
+[11-Apr-2018 20:46:51 UTC] PHP Notice:  Undefined variable: lastVisitDate in /home/clearmaze/public_html/sales/adminDemo/student/studentActivity.php on line 133

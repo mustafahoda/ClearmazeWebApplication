@@ -1,0 +1,17 @@
+[15-Feb-2018 00:19:51 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/genesis/login/FBLogin/oauth-user.php on line 32
+[15-Feb-2018 00:19:51 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/genesis/login/FBLogin/oauth-user.php on line 41
+[15-Feb-2018 00:19:51 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/genesis/login/FBLogin/oauth-user.php on line 61
+[15-Feb-2018 00:19:51 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/genesis/login/FBLogin/oauth-user.php on line 82
+[17-Mar-2018 21:41:36 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[17-Mar-2018 21:41:39 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[17-Mar-2018 21:41:40 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[17-Mar-2018 21:41:44 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[22-Mar-2018 00:14:51 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[22-Mar-2018 00:14:56 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[22-Mar-2018 00:15:02 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[22-Mar-2018 00:15:30 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88
+[22-Apr-2018 23:25:25 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 32
+[22-Apr-2018 23:25:25 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 41
+[22-Apr-2018 23:25:25 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 61
+[22-Apr-2018 23:25:25 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 82
+[22-Apr-2018 23:25:25 UTC] PHP Notice:  Undefined variable: loginReturn in /home/clearmaze/public_html/login/FBLogin/oauth-user.php on line 88

@@ -1,0 +1,13 @@
+[01-Apr-2017 22:25:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/clearmaze/public_html/final3/transfer/queries.php on line 2
+[01-Apr-2017 22:25:12 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/clearmaze/public_html/final3/transfer/queries.php on line 196
+[23-Feb-2018 18:20:30 UTC] PHP Notice:  Undefined index: cc in /home/clearmaze/public_html/transfer/major.php on line 13
+[23-Feb-2018 18:26:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/clearmaze/public_html/transfer/queries.php on line 2
+[23-Feb-2018 18:26:59 UTC] PHP Notice:  Undefined index: cc in /home/clearmaze/public_html/transfer/queries.php on line 4
+[23-Feb-2018 18:26:59 UTC] PHP Notice:  Undefined index: uni in /home/clearmaze/public_html/transfer/queries.php on line 5
+[23-Feb-2018 18:26:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/clearmaze/public_html/transfer/queries.php on line 51
+[23-Feb-2018 18:26:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/clearmaze/public_html/transfer/queries.php on line 196
+[23-Feb-2018 18:26:59 UTC] PHP Notice:  Undefined index: cc in /home/clearmaze/public_html/transfer/display_guide.php on line 6
+[23-Feb-2018 18:26:59 UTC] PHP Notice:  Undefined index: uni in /home/clearmaze/public_html/transfer/display_guide.php on line 7
+[22-Apr-2018 20:37:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/clearmaze/public_html/transfer/queries.php on line 2
+[22-Apr-2018 20:37:26 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/clearmaze/public_html/transfer/queries.php on line 196
+[10-May-2018 17:59:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/clearmaze/public_html/transfer/queries.php on line 2

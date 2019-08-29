@@ -1,0 +1,156 @@
+.btn-group{
+  align-items: center;
+}
+
+.jumbotron{
+  padding: 50px;
+  background-color: #F5F9FC;
+  /*height: 45%;*/
+}
+
+
+.navbar {
+  background-color: #F5F9FC;
+}
+
+#completionChart {
+  background-color: #F5F9FC;
+}
+
+#contact {
+  background-color: #F5F9FC;
+}
+
+#gpaBox {
+  background-color: #F5F9FC;
+}
+
+#contactBody {
+  /*height: 450px;*/
+  /*margin-top: 40px;*/
+
+}
+
+.well {
+  border-style: hidden;
+}
+
+#printMsg {
+  color: white;
+}
+
+#GPA  {
+  font-size: 500%;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+#downArrow  {
+  color: white;
+  font-size: 100px;
+}
+
+.well {
+height: 700px;
+margin: 10px;
+
+}
+
+.row{
+  /*margin-left: auto;
+  margin-right: auto;*/
+align-items: center;
+display: inline-flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+#chart{
+  height: 400px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#char  {
+  margin: auto;
+  align-content: center;
+}
+
+
+
+/***************************
+          GENERICS
+***************************/
+
+
+body > #container { height: auto; min-height: 100%; }
+
+body {
+    font-family: "Roboto", serif;
+    font-weight: 300;
+    text-align: center;
+    background-color: #101253;
+    color: black;
+    padding-top: 50px;
+}
+
+.whitetext {
+  color: white;
+}
+
+.blacktext {
+  color: black;
+}
+
+/***************************
+  3 STEP IMPLEMENTATION
+***************************/
+
+.dropbtn {
+    background-color: #F5F9FC;
+    color: black;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    width: 400px;
+}
+
+/***************************
+ TABLES FOR TRANSFER GUIDE
+***************************/
+
+table {
+    border: none;
+    text-align: center;
+
+    color: #000;
+}
+td {
+    color: #F5F9FC;
+    font-size: 14px;
+    padding:10px;
+}
+th {
+    background-color: #F5F9FC;
+    color: #000;
+    font-size: 15px;
+    text-align: center;
+    padding:15px;
+}
+.genEdCategoryHeaders {
+   background-color: #b9bfc3;
+}
+
+/***************************
+  GEN ED CATEGORY HEADERS
+***************************/
+
+.genEdCatHeaders:hover {
+    background: #babdbf;
+}
+
+.equivalencyRow:hover {
+  background: #21246e;
+}

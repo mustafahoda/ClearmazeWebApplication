@@ -1,0 +1,228 @@
+body {
+    font-family: "Roboto";
+    text-align: center;
+    background-color: #101253;
+    color: white;
+}
+
+/* NAVIGATION BAR */
+
+
+/* TRIED INLUDING BORDER AROUND TRANSFER BUTTON */
+
+
+/* --------------------------------------------- */
+.navbar {
+  background-color: #F5F9FC;
+}
+
+#salestext {
+  background-color: #9C9FA1;
+  color: white;
+  width: 10vw;
+  border: 2px solid rgb(143, 143, 143);
+  border-radius: 3px;
+  padding: 2px 6px 2px 6px;
+  margin-top: -3px;
+  margin-bottom: -3px;
+}
+
+/* FIRST BOX */
+
+#faceofclearmaze {
+    color: white;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/landing-page-1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Raleway';
+    font-size: 50px;
+    padding-bottom: 160px;
+    padding-top: 140px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#subtitle {
+    font-family: "Raleway";
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+#getstartedbtn1 {
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+}
+
+#getstartedbtn1:hover {
+  background-color: rgb(222, 220, 220);
+  text-decoration: none;
+}
+
+#logintext {
+  border: 2px solid rgb(143, 143, 143);
+  border-radius: 3px;
+  padding: 2px 6px 2px 6px;
+  margin-top: -3px;
+  margin-bottom: -3px;
+}
+
+#logintext:hover {
+  border: 2px solid rgb(105, 105, 105);
+  border-radius: 3px;
+  padding: 2px 6px 2px 6px;
+  margin-top: -3px;
+  margin-bottom: -3px;
+}
+
+#loginbtn:hover {
+  background-color: #e8eced;
+}
+
+/* --------------------------------------------- */
+
+
+/* WHY IT SUCKS */
+
+#why_it_sucks {
+    padding: 15px;
+}
+
+.glyphicon {
+    font-size: 50px;
+    padding: 10px;
+}
+.reasons {
+    padding: 20px;
+    font-size: 15px;
+}
+/* --------------------------------------------- */
+
+
+/* WHAT WE DO */
+
+#what_we_do {
+    display: flex;
+    background-color: #8E4A49;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+/* --------------------------------------------- */
+
+
+/*3 STEP PROCESS */
+
+#threestepprocess {
+    background-color: black;
+    padding: 70px;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/landing-page-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/*---------------*/
+
+
+/* GET STARTED  */
+
+#get_started {
+    padding: 60px;
+    padding-top: 37px;
+}
+
+#getstartedbtn2 {
+  background-color: white;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 12px;
+}
+
+#getstartedbtn2:hover {
+  background-color: rgb(222, 220, 220);
+  text-decoration: none;
+}
+
+/* --------------------------------------------- */
+
+
+/* FEATURED ON  */
+
+#featured_on {
+    padding: 20px;
+    text-align: center;
+    background-color: #1A252B;
+    background-color: white;
+    color: black;
+}
+h5 {
+    text-align: center;
+}
+/* #ChicagoInno {
+    padding-top: 20px;
+} */
+
+/* --------------------------------------------- */
+
+
+/* FOOTER  */
+
+footer {
+    width: 100%;
+    padding: 20px;
+    padding-bottom: 2px;
+    font-family: "courier";
+    font-size: 10px;
+    padding-top: 20px;
+    background-color: #131a40;
+    color: #cccccc;
+    clear: both;
+    position: relative;
+    z-index: 10;
+}
+
+#social {
+    width: 200px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#logoJumbotron {
+  max-width:35%;
+  padding-bottom:30px;
+}
+
+.featured_on_allignment_helper {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+/* --------------------------------------------- */
+
+@media only screen and (max-width: 670px) and (min-width:1px) {
+  #faceofclearmaze {
+      background-size: cover;
+  }
+  #logoJumbotron {
+    max-width: 80%;
+  }
+}
+
+@media only screen and (max-width: 970px) and (min-width:671px) {
+  #logoJumbotron {
+    max-width: 45%;
+  }
+}
